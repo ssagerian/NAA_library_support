@@ -13,21 +13,30 @@ all python based
 Simple USB barcode scanner?
 
 #use cases?
-#Inventory
+# Inventory
 ## library inventory with scanner
-## library invetory manually 
-## inventory status (statistics)
-## new inventory from excel sheets
-## new inventory from existing inventory
-## reset inventory 
-## save inventory
-## delete inventory
+scanning qr or bar codes on books, updating inventory as found, location shelf
+## Library invetory manually 
+librarian entering book # via keyboard, updating inventory as found and in shelves
+## Inventory status (statistics)
+1. print list of books checkout
+2. total books
+3. total reference  books
+4. total books missing
 
-## book checkout
-## book check in
-## book add to inventory
-## book delete from inventory
-## book search/status
-## list books not found in current inventory
+## New inventory from excel sheets
+scan tabs in excel sheets for 
+## New inventory from existing inventory
+## Reset inventory 
+## Save inventory
+## Delete inventory
+
+## Book checkout
+## Book check in
+## Book add to inventory
+## Book delete from inventory
+## Book search/status
+## Books: create qr/bar code for all books
+## List books not found in current inventory
 
 
