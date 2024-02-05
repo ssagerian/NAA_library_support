@@ -11,3 +11,23 @@ all python based
 
 #Hardware
 Simple USB barcode scanner?
+
+#use cases?
+#Inventory
+## library inventory with scanner
+## library invetory manually 
+## inventory status (statistics)
+## new inventory from excel sheets
+## new inventory from existing inventory
+## reset inventory 
+## save inventory
+## delete inventory
+
+## book checkout
+## book check in
+## book add to inventory
+## book delete from inventory
+## book search/status
+## list books not found in current inventory
+
+
